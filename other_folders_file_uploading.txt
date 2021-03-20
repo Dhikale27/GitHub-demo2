@@ -1,3 +1,5 @@
 I created this file in other directory to uplod on my git hub account.
 to uplod i follow given steps: >> move this file from any other folder to our local repository folder by using "mv <file name> <our repository folder add>"
 >> next add>>commit >> push the file.
+
+Next i am going to rename this file from demo_git.txt.txt to othe_folders_file_uploading.txt using command >>git mv <old name> <new name>
