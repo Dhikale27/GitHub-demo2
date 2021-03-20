@@ -1,0 +1,3 @@
+I created this file in other directory to uplod on my git hub account.
+to uplod i follow given steps: >> move this file from any other folder to our local repository folder by using "mv <file name> <our repository folder add>"
+>> next add>>commit >> push the file.
